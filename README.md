@@ -142,7 +142,7 @@
 
 ### 1. Online Retail Sales Overview
 
-![Uploading 截屏2026-08-28 20.06.59.png…]()
+<img width="1440" height="900" alt="截屏2026-08-04 19 35 51" src="https://github.com/user-attachments/assets/805e1aaa-e288-406f-803a-e9f438f16e78" />
 
 包含：
 
