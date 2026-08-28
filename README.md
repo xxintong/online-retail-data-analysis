@@ -142,6 +142,8 @@
 
 ### 1. Online Retail Sales Overview
 
+![Uploading 截屏2026-08-28 20.06.59.png…]()
+
 包含：
 
 - Gross Sales
