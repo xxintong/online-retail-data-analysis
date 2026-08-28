@@ -142,7 +142,7 @@
 
 ### 1. Online Retail Sales Overview
 
-<img width="1440" height="900" alt="截屏2026-08-28 20 06 59" src="https://github.com/user-attachments/assets/81d9d4a7-2aa0-48fa-96b8-16cb24e47889" />
+<img width="1440" height="900" alt="01_sales_overview" src="https://github.com/user-attachments/assets/99cce307-ad7f-4787-adba-bab1bef1db72" />
 
 包含：
 
@@ -155,6 +155,8 @@
 - Top 10 Products by Net Sales
 
 ### 2. Customer & RFM Analysis
+
+<img width="1440" height="900" alt="02_rfm_analysis" src="https://github.com/user-attachments/assets/47ddab40-c14d-450d-b6d6-d399fcf5e078" />
 
 包含：
 
